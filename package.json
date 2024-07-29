@@ -1,4 +1,9 @@
 {
+	"private": true,
+	"type": "module",
+	"name": "vite-react",
+	"description": "Vite + React 스캐폴딩",
+	"version": "0.1.0",
 	"devDependencies": {
 		"vite": "^5.3.5"
 	}
